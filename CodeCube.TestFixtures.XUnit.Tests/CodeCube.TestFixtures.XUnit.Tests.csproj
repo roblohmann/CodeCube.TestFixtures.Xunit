@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CodeCube.TestFixtures.XUnit\CodeCube.TestFixtures.XUnit.csproj" />
+    <ProjectReference Include="..\CodeCube.TestFixtures.XUnit\CodeCube.TestFixtures.Xunit.csproj" />
   </ItemGroup>
 
 </Project>

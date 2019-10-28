@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCube.TestFixtures.XUnit", "CodeCube.TestFixtures.XUnit\CodeCube.TestFixtures.XUnit.csproj", "{14B89004-BCD1-476A-A51E-86D17511B3B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCube.TestFixtures.Xunit", "CodeCube.TestFixtures.XUnit\CodeCube.TestFixtures.Xunit.csproj", "{14B89004-BCD1-476A-A51E-86D17511B3B6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".solution items", ".solution items", "{79CC36F4-B032-4D84-9DA1-4C4706767E92}"
 	ProjectSection(SolutionItems) = preProject
@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".solution items", ".solutio
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCube.TestFixtures.XUnit.Tests", "CodeCube.TestFixtures.XUnit.Tests\CodeCube.TestFixtures.XUnit.Tests.csproj", "{1DBC7F7D-EE3A-454F-AB13-1935C40AE069}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCube.TestFixtures.Xunit.Tests", "CodeCube.TestFixtures.XUnit.Tests\CodeCube.TestFixtures.Xunit.Tests.csproj", "{1DBC7F7D-EE3A-454F-AB13-1935C40AE069}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

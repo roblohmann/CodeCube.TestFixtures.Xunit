@@ -6,7 +6,7 @@ namespace CodeCube.TestFixtures.XUnit
 {
     public sealed class XunitLogger : ILogger, IDisposable
     {
-        private ITestOutputHelper _output;
+        private readonly ITestOutputHelper _output;
 
         public XunitLogger(ITestOutputHelper output)
         {
