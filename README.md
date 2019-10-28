@@ -1,4 +1,4 @@
-# CodeCube.TestFixtures.XUnit
+# CodeCube.TestFixtures.Xunit
 
 Simple extension on the XUnit logging framework to capture everything written to the console.
 This will then be displayed as output in test testresults window.
