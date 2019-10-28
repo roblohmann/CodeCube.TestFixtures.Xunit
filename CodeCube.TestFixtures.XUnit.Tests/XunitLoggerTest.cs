@@ -8,7 +8,7 @@ namespace CodeCube.TestFixtures.XUnit.Tests
 {
     public class XunitLoggerTest
     {
-        private ITestOutputHelper _output;
+        private readonly ITestOutputHelper _output;
 
         public XunitLoggerTest(ITestOutputHelper output)
         {
