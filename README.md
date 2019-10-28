@@ -30,7 +30,7 @@ public class Something
 
     public void LogSomething()
     {
-        _logger.LogInformation("Method LogSomething has been called!");_
+        _logger.LogInformation("Method LogSomething has been called!");
     }
 }
 ```
@@ -63,3 +63,6 @@ public class TestSomething()
     }
 }
 ```
+
+The result;
+![alt test](https://github.com/roblohmann/CodeCube.TestFixtures.XUnit/blob/master/CodeCube.TestFixtures.XUnit.Tests/result.PNG?raw=true "The result after implementation")
