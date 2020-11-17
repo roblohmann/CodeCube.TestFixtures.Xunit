@@ -8,6 +8,7 @@
     <PackageProjectUrl>https://github.com/roblohmann/CodeCube.TestFixtures.Xunit</PackageProjectUrl>
     <RepositoryUrl>https://github.com/roblohmann/CodeCube.TestFixtures.Xunit</RepositoryUrl>
     <PackageTags>xunit xunitlogger testfixtures</PackageTags>
+    <Description>Package which adds XUnitLogger to be able to write output via Microsoft.Extensions.Logger to you test output.</Description>
   </PropertyGroup>
 
   <ItemGroup>
