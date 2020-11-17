@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
     <Authors>Rob Lohmann</Authors>
-    <Copyright>Copyright 2019 Rob Lohmann</Copyright>
+    <Copyright>Copyright 2019 - 2020 Rob Lohmann</Copyright>
     <PackageIconUrl>https://github.com/roblohmann/CodeCube.TestFixtures.Xunit/blob/master/nuget-icon.png?raw=true</PackageIconUrl>
     <PackageProjectUrl>https://github.com/roblohmann/CodeCube.TestFixtures.Xunit</PackageProjectUrl>
     <RepositoryUrl>https://github.com/roblohmann/CodeCube.TestFixtures.Xunit</RepositoryUrl>
