@@ -3,6 +3,10 @@
 Simple extension on the XUnit logging framework to capture everything written to the console.
 This will then be displayed as output in test testresults window.
 
+![Nuget](https://img.shields.io/nuget/dt/CodeCube.TestFixtures.Xunit?style=for-the-badge)
+![Nuget (with prereleases)](https://img.shields.io/nuget/vpre/CodeCube.TestFixtures.Xunit?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/roblohmann/CodeCube.TestFixtures.Xunit?style=for-the-badge)
+
 ## How to use (.NET Core)
 1. In the constructor for your unit test add an parameter of type ITestOutputHelper and store it in your unit test class.
 2. In your unit test mock the ILoggerFactory with the following line of code;
