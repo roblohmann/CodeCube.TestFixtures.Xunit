@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFrameworks>netstandard2.1;net6.0;net7.0;net8.0;net9.0</TargetFrameworks>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <Authors>Rob Lohmann</Authors>
     <Copyright>Copyright 2019 - 2025 Rob Lohmann</Copyright>
     <PackageIconUrl>https://github.com/roblohmann/CodeCube.TestFixtures.Xunit/blob/master/nuget-icon.png?raw=true</PackageIconUrl>
