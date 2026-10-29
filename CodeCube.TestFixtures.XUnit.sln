@@ -11,9 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".solution items", ".solutio
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeCube.TestFixtures.Xunit", "CodeCube.TestFixtures.Xunit\CodeCube.TestFixtures.Xunit.csproj", "{E63F3D76-D40C-4A7D-BC68-E5B13B8B7429}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeCube.TestFixtures.Xunit", "CodeCube.TestFixtures.XUnit\CodeCube.TestFixtures.XUnit.csproj", "{E63F3D76-D40C-4A7D-BC68-E5B13B8B7429}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeCube.TestFixtures.Xunit.Tests", "CodeCube.TestFixtures.Xunit.Tests\CodeCube.TestFixtures.Xunit.Tests.csproj", "{242C02A9-E1E1-43F5-905F-6732D464667C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeCube.TestFixtures.Xunit.Tests", "CodeCube.TestFixtures.XUnit.Tests\CodeCube.TestFixtures.XUnit.Tests.csproj", "{242C02A9-E1E1-43F5-905F-6732D464667C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
